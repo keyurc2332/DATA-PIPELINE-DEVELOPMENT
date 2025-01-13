@@ -35,3 +35,7 @@ Pipeline Automation:
 The entire ETL (Extract, Transform, Load) process was automated using a Python script, encapsulating all steps from data loading to model evaluation. This automation ensures consistency and repeatability for similar datasets in the future.
 
 This project showcased the implementation of an efficient data pipeline for preprocessing and transformation, streamlining the data preparation phase for machine learning tasks.
+
+![image](https://github.com/user-attachments/assets/8a3c761c-87d1-4ae7-8f83-08f3c6907872)
+![image](https://github.com/user-attachments/assets/d06e9359-a626-4ae2-87f4-4b114fa24bff)
+
